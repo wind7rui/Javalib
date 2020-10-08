@@ -245,4 +245,4 @@ Joda-Time提供了Java日期和时间类的质量替代。
 
 在日常接口测试的工作中，经常需要依赖其他系统的API，但是联调不常有，只能自己通过mock完成数据依赖。Moco是一个模拟服务器端服务的项目，可以用于测试打桩。
 
-github：https://github.com/dreamhead?tab=repositories
+github：https://github.com/dreamhead/moco
