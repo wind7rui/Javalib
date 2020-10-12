@@ -123,9 +123,13 @@ github：https://github.com/DozerMapper/dozer
 
 1.Redission
 
+Redis推荐的Java客户端Redisson是一个在Redis的基础上实现的Java驻内存数据网格（In-Memory Data Grid），它充分利用了Redis键值数据库提供的一系列优势，基于Java实用工具包中常用接口，为使用者提供了一系列具有分布式特性的常用工具类，让使用Redis更加简单、便捷，从而让使用者能够将更多精力集中到业务逻辑处理上。
+
 github：https://github.com/redisson/redisson/
 
 2.Jedis
+
+Redis推荐的Java客户端。
 
 github：https://github.com/xetorthio/jedis
 
