@@ -246,3 +246,12 @@ Joda-Time提供了Java日期和时间类的质量替代。
 在日常接口测试的工作中，经常需要依赖其他系统的API，但是联调不常有，只能自己通过mock完成数据依赖。Moco是一个模拟服务器端服务的项目，可以用于测试打桩。
 
 github：https://github.com/dreamhead/moco
+
+### 安全框架
+
+1.Apache Shiro
+
+Apache Shiro是一个功能强大且易于使用的Java安全框架，它用于身份验证、授权、加密和会话管理。使用Shiro易于理解的API，可以快速轻松地保护任何应用程序，从最小的移动应用程序到最大的Web和企业应用程序。
+
+官网：http://shiro.apache.org/
+
