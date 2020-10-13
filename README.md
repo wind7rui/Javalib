@@ -259,3 +259,14 @@ Apache Shiro是一个功能强大且易于使用的Java安全框架，它用于�
 
 官网：http://shiro.apache.org/
 
+### 日志
+
+1.SLF4J + Logback
+
+SLF4J是为各种loging APIs提供一个简单统一的接口，从而使得最终用户能够在部署的时候配置自己希望的loging APIs实现，它是一个日志接口。
+
+Logback是由[log4j](https://baike.baidu.com/item/log4j)创始人设计的又一个开源日志组件，它是一个日志的实现。
+
+SLF4J官网：http://www.slf4j.org/
+
+Logback官网：https://logback.qos.ch/
