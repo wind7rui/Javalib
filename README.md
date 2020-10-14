@@ -243,9 +243,25 @@ Joda-Time提供了Java日期和时间类的质量替代。
 
 官网：https://www.joda.org/joda-time/
 
-### 服务Mock
+### 单元测试
 
-1.moco
+1.JUnit
+
+官网：https://junit.org/junit5/
+
+2.Mockito
+
+Mockito是一个Java单元测试模拟框架。
+
+官网：https://site.mockito.org/
+
+3.PowerMock
+
+PowerMock也是一个Java单元测试模拟框架，它可以模拟静态方法、构造函数、最终类和方法、私有方法、删除静态初始化器等。
+
+官网：http://powermock.github.io/
+
+4.moco
 
 在日常接口测试的工作中，经常需要依赖其他系统的API，但是联调不常有，只能自己通过mock完成数据依赖。Moco是一个模拟服务器端服务的项目，可以用于测试打桩。
 
@@ -270,3 +286,4 @@ Logback是由[log4j](https://baike.baidu.com/item/log4j)创始人设计的又一
 SLF4J官网：http://www.slf4j.org/
 
 Logback官网：https://logback.qos.ch/
+
