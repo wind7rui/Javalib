@@ -287,3 +287,10 @@ SLF4J官网：http://www.slf4j.org/
 
 Logback官网：https://logback.qos.ch/
 
+### 对象池
+
+1.Apache Commons Pool
+
+Apache Commons Pool提供了对象池API和一系列对象池实现。
+
+官网：https://commons.apache.org/proper/commons-pool/
