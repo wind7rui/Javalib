@@ -88,6 +88,16 @@ github：https://github.com/dom4j/dom4j
 
 官网：https://dom4j.github.io/
 
+2.StAX
+
+StAX全称Streaming API for XML，一种全新的、基于流的Java XML解析标准类库。
+
+3.jaxb-api
+
+jaxb-api用于执行XML文档和Java对象之间的映射。
+
+文档：https://docs.oracle.com/javase/8/docs/api/javax/xml/bind/JAXB.html
+
 ### HTTP客户端
 
 1.OkHttp
