@@ -78,6 +78,16 @@ fastjson是阿里巴巴的开源JSON解析库，它可以解析JSON格式的字�
 
 github：https://github.com/alibaba/fastjson
 
+### XML读写
+
+1.dom4j
+
+dom4j是用于处理XML的开源框架，该框架与XPath集成在一起，并完全支持DOM、SAX、JAXP和Java平台。
+
+github：https://github.com/dom4j/dom4j
+
+官网：https://dom4j.github.io/
+
 ### HTTP客户端
 
 1.OkHttp
