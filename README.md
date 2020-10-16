@@ -98,6 +98,12 @@ jaxb-api用于执行XML文档和Java对象之间的映射。
 
 文档：https://docs.oracle.com/javase/8/docs/api/javax/xml/bind/JAXB.html
 
+4.XStream
+
+XStream是一个可以轻易的将Java对象和xml文档相互转换的类库。
+
+官网：http://x-stream.github.io/
+
 ### HTTP客户端
 
 1.OkHttp
