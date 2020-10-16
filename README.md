@@ -104,6 +104,19 @@ XStream是一个可以轻易的将Java对象和xml文档相互转换的类库。
 
 官网：http://x-stream.github.io/
 
+### IO读写
+
+1.Apache Commons IO
+Apache Commons IO是一个实用程序库，可协助开发IO功能。
+
+官网：https://commons.apache.org/proper/commons-io/
+
+2.Okio
+
+Okio是对java.io和java.nio的补充，使访问、存储和处理数据变得更加容易。
+
+github：https://github.com/square/okio
+
 ### HTTP客户端
 
 1.OkHttp
