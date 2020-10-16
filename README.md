@@ -260,6 +260,12 @@ Apache Commons Codec提供了常见编码器和解码器的实现，例如Base64
 
 官网：http://commons.apache.org/proper/commons-collections/
 
+2.Guava
+
+Guava是Google的一组核心Java库，除了可以操作我们常用的集合类型之外，还可以操作新的集合类型（例如多图和多集）和不可变的集合。
+
+github：https://github.com/google/guava
+
 ### 全能型工具类
 
 1.Guava
@@ -333,3 +339,11 @@ Logback官网：https://logback.qos.ch/
 Apache Commons Pool提供了对象池API和一系列对象池实现。
 
 官网：https://commons.apache.org/proper/commons-pool/
+
+### 基本网络通讯
+
+1.Apache Commons Net
+
+Apache Commons Net库实现了许多基本互联网协议的客户端。该库的目的是提供基本协议访问，而不是更高级别的抽象。
+
+官网：http://commons.apache.org/proper/commons-net/index.html
