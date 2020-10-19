@@ -347,3 +347,19 @@ Apache Commons Pool提供了对象池API和一系列对象池实现。
 Apache Commons Net库实现了许多基本互联网协议的客户端。该库的目的是提供基本协议访问，而不是更高级别的抽象。
 
 官网：http://commons.apache.org/proper/commons-net/index.html
+
+### 作业调度框架
+
+1.Quartz
+
+Quartz是一个开源的作业调度框架，它完全由Java编写，能够用它来为执行一个作业而创建简单的或复杂的调度。
+
+官网：http://www.quartz-scheduler.org/
+
+github：https://github.com/quartz-scheduler/quartz
+
+2.ElasticJob
+
+ElasticJob是一种分布式调度解决方案，解决了Quartz不支持分布式的弊端。Elastic job主要的功能有支持弹性扩容，通过Zookepper集中管理和监控job，支持失效转移等。
+
+github：https://github.com/apache/shardingsphere-elasticjob
