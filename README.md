@@ -424,6 +424,24 @@ Resilience4j是受Netflix Hystrix启发的轻量级容错库，但专为Java 8�
 
 github：https://github.com/resilience4j/resilience4j
 
+### 分库分表
+
+1.Apache ShardingSphere
+
+Apache ShardingSphere定位为关系型数据库中间件，旨在充分合理地在分布式的场景下利用关系型数据库的计算和存储能力，而并非实现一个全新的关系型数据库。支持数据分片、读写分离、多数据副本、数据加密、影子库压测等功能。
+
+官网：https://shardingsphere.apache.org/
+
+github：https://github.com/apache/shardingsphere
+
+2.Mycat
+
+Mycat是数据库分库分表中间件。
+
+官网：http://www.mycat.org.cn/
+
+github：https://github.com/MyCATApache
+
 
 
 
