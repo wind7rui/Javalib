@@ -400,6 +400,30 @@ Sentinel是面向分布式服务架构的高可用防护组件，主要以流量
 
 github：https://github.com/alibaba/Sentinel
 
+### 熔断降级
+
+当调用链路中某个资源出现不稳定，例如，表现为timeout，异常比例升高的时候，则对这个资源的调用进行限制，并让请求快速失败，避免影响到其它的资源，最终产生雪崩的效果。
+
+1.Sentinel
+
+Sentinel通过并发线程数进行限制和通过响应时间对资源进行降级两种手段对资源调用进行限制，让请求快速失败，避免影响到其它的资源。
+
+官网：https://sentinelguard.io/
+
+github：https://github.com/alibaba/Sentinel
+
+2.Hystrix
+
+Hystrix 通过线程池的方式，来对资源进行了隔离。这样做的好处是资源和资源之间做到了最彻底的隔离。缺点是除了增加了线程切换的成本，还需要预先给各个资源做线程池大小的分配。Hystrix不再处于主动开发中，并且当前处于维护模式，官方推荐使用Resilience4j替代。
+
+github：https://github.com/Netflix/Hystrix
+
+3.Resilience4j
+
+Resilience4j是受Netflix Hystrix启发的轻量级容错库，但专为Java 8和函数式编程而设计。轻巧，因为该库仅使用Vavr，而Vavr没有任何其他外部库依赖项。
+
+github：https://github.com/resilience4j/resilience4j
+
 
 
 
