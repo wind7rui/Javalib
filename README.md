@@ -386,7 +386,19 @@ Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能�
 
 github：https://github.com/ctripcorp/apollo
 
+### 限流
 
+1.Guava RateLimiter
+
+RateLimiter基于令牌桶算法，即以用户设定的恒定速率向令牌桶内放置令牌，用户来执行任务时，只有拿到令牌才能执行。
+
+2.Sentinel
+
+Sentinel是面向分布式服务架构的高可用防护组件，主要以流量为切入点，从流量控制、熔断降级、系统自适应保护等多个维度来帮助用户保障微服务的稳定性。
+
+官网：https://sentinelguard.io/
+
+github：https://github.com/alibaba/Sentinel
 
 
 
