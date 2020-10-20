@@ -363,3 +363,32 @@ github：https://github.com/quartz-scheduler/quartz
 ElasticJob是一种分布式调度解决方案，解决了Quartz不支持分布式的弊端。Elastic job主要的功能有支持弹性扩容，通过Zookepper集中管理和监控job，支持失效转移等。
 
 github：https://github.com/apache/shardingsphere-elasticjob
+
+### 配置中心
+
+1.Nacos
+
+Nacos是一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台。Nacos的动态配置服务让您能够以中心化、外部化和动态化的方式管理所有环境的配置。动态配置消除了配置变更时重新部署应用和服务的需要。配置中心化管理让实现无状态服务更简单，也让按需弹性扩展服务更容易。
+
+官网：https://nacos.io/
+
+github：https://github.com/alibaba/nacos
+
+2.Spring Cloud Config
+
+Spring Cloud Config为分布式系统中的外部化配置提供服务器端和客户端支持。使用Config Server，您可以在中心位置管理所有环境中应用程序的外部属性。
+
+文档：https://cloud.spring.io/spring-cloud-config/reference/html/
+
+3.Apollo
+
+Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+
+github：https://github.com/ctripcorp/apollo
+
+
+
+
+
+
+
