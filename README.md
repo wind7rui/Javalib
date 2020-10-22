@@ -446,13 +446,21 @@ github：https://github.com/MyCATApache
 
 1.Kryo
 
-Kryo是一种非常成熟的序列化实现，已经在Twitter、Groupon、 Yahoo以及多个著名开源项目（如Hive、Storm）中广泛的使用，它的性能在各个方面都比hessian2要优秀些。
+Kryo是用于Java的快速高效的二进制对象图序列化框架。该项目的目标是高速，小尺寸和易于使用的API。每当需要将对象持久保存到文件，数据库还是通过网络时，该项目都是有用的。
+
+github：https://github.com/EsotericSoftware/kryo
 
 2.Hessian
 
 Hessian是一款支持多种语言进行序列化操作的框架技术，同时在进行序列化之后产生的码流也较小，处理数据的性能方面远超于java内置的jdk序列化方式。
 
+官网：http://hessian.caucho.com/
+
 3.Protobuf
 
-Protobuf是谷歌开源的一个灵活的、高效的用于序列化数据的协议。相比较XML和JSON格式，protobuf更小、更快、更便捷。Google protobuf是跨语言的，并且自带了一个编译器(protoc)，只需要用它进行编译，可以编译成Java、python、C++、C#、Go等代码，然后就可以直接使用，不需要再写其他代码，自带有解析的代码。Protobuf相对于kryo来说具有更加高效的性能和灵活性，能够在实际使用中，当对象序列化之后新增了字段，在反序列化出来的时候依旧可以正常使用。
+Protobuf是谷歌开源的一个灵活的、高效的用于序列化数据的协议。相比较XML和JSON格式，protobuf更小、更快、更便捷。
+
+github：https://github.com/protocolbuffers/protobuf
+
+官网：https://developers.google.com/protocol-buffers/
 
