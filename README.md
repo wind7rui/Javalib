@@ -18,7 +18,55 @@
 
 ## 正文
 
+### 应用开发脚手架
+1.Spring Framework
 
+Spring框架为现代基于Java的企业应用程序提供了一个全面的编程和配置模型，使用开发基于Java语言的应用更加简单、便捷。
+
+github：https://github.com/spring-projects/spring-framework/
+
+官网：https://spring.io/projects/spring-framework
+
+2.Spring Boot
+
+Spring Boot使创建独立的、基于Spring的产品级应用程序变得非常容易。
+
+官网：https://spring.io/projects/spring-boot
+
+3.Spring Cloud
+Spring Cloud为开发人员提供了丰富的使用工具，开发人员基于这些工具可以快速构建分布式系统中的一些常见功能（例如，配置管理，服务发现，断路器，智能路由，微代理，控制总线，一次性令牌，全局锁，领导选举，分布式会话等）。
+
+官网：https://spring.io/projects/spring-cloud
+
+### Web服务接口
+
+1.Jersey
+
+Jersey是一个REST框架，它提供JAX-RS参考实现等。Jersey提供了自己的api，这些api通过附加的特性和实用程序扩展了JAX-RS工具包，从而进一步简化了RESTful服务和客户端开发。Jersey还公开了许多扩展spi，以便开发人员可以扩展Jersey以最适合他们的需求。
+
+github：https://github.com/eclipse-ee4j/jersey
+
+2.Spring Web MVC
+
+Spring Web MVC是基于Servlet API构建的原始Web框架，从一开始就已包含在Spring框架中。正式名称“ Spring Web MVC”来自其源模块的名称（spring-webmvc），但通常称为“Spring MVC”。
+
+官网：https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/web.html
+
+### 数据持久化框架
+
+1.MyBatis
+
+MyBatis是一个一流的持久性框架，支持自定义SQL、存储过程和高级映射，它几乎消除了JDBC代码、参数手动设置和结果检索。MyBatis可以使用简单的XML或注释进行配置，并将原语、接口和javapojo（普通的旧Java对象）映射到数据库记录。
+
+官网：https://mybatis.org/mybatis-3/
+
+github：https://github.com/mybatis/mybatis-3
+
+2.Hibernate
+
+Hibernate是一个开放源代码的对象关系映射框架，它对JDBC进行了非常轻量级的对象封装，它将POJO与数据库表建立映射关系，是一个全自动的orm框架，hibernate可以自动生成SQL语句，自动执行，使得Java程序员可以随心所欲的使用对象编程思维来操纵数据库。 
+
+官网：http://hibernate.org/
 
 ### Excel读写
 
