@@ -284,7 +284,7 @@ Apache Commons Codec提供了常见编码器和解码器的实现，例如Base64
 
 官网：http://commons.apache.org/proper/commons-io/index.html
 
-对象池
+### 对象池
 
 1.Apache Commons Pool
 
