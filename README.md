@@ -536,6 +536,20 @@ github：https://github.com/grpc/grpc
 
 1.Kafka
 
+Apache Kafka是一个开放源代码的分布式事件流平台，成千上万的公司使用它来实现高性能数据管道、流分析、数据集成和关键任务应用程序。Kafka是一种高吞吐量的分布式发布订阅消息系统，它可以处理消费者在网站中的所有动作流数据。
+
+英文官网：http://kafka.apache.org/
+
+中文官网：https://kafka.apachecn.org/
+
 2.Rocketmq
+
+Apache RocketMQ是一个分布式消息传递和流平台，具有低延迟，高性能和可靠性，万亿级容量和灵活的可伸缩性。
+
+官网：http://rocketmq.apache.org/
+
+中文文档：https://github.com/apache/rocketmq/tree/master/docs/cn
+
+github：https://github.com/apache/rocketmq
 
 ![关注我的公众号](https://mmbiz.qpic.cn/mmbiz_png/gDHRjEowjKSD6uGeBkX7mgGjPHJjeVrWFLupqaxwrHAMYoibmfl5CD6ibfYMPJffvpVo6mO25fyFur7EZF0nFFTw/640?wx_fmt=png)
