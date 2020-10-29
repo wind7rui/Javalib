@@ -34,6 +34,7 @@ Spring Boot使创建独立的、基于Spring的产品级应用程序变得非常
 官网：https://spring.io/projects/spring-boot
 
 3.Spring Cloud
+
 Spring Cloud为开发人员提供了丰富的使用工具，开发人员基于这些工具可以快速构建分布式系统中的一些常见功能（例如，配置管理，服务发现，断路器，智能路由，微代理，控制总线，一次性令牌，全局锁，领导选举，分布式会话等）。
 
 官网：https://spring.io/projects/spring-cloud
