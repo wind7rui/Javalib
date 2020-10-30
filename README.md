@@ -63,7 +63,13 @@ MyBatis是一个一流的持久性框架，支持自定义SQL、存储过程和�
 
 github：https://github.com/mybatis/mybatis-3
 
-2.Hibernate
+2.MyBatis-Plus
+
+MyBatis-Plus是MyBatis的功能强大的增强工具包，用于简化开发。该工具包为MyBatis提供了一些高效，有用，即用的功能，使用它可以有效地节省您的开发时间。
+
+github：https://github.com/baomidou/mybatis-plus
+
+3.Hibernate
 
 Hibernate是一个开放源代码的对象关系映射框架，它对JDBC进行了非常轻量级的对象封装，它将POJO与数据库表建立映射关系，是一个全自动的orm框架，hibernate可以自动生成SQL语句，自动执行，使得Java程序员可以随心所欲的使用对象编程思维来操纵数据库。 
 
