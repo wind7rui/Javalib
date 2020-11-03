@@ -368,6 +368,22 @@ PowerMock也是一个Java单元测试模拟框架，它可以模拟静态方法�
 
 github：https://github.com/dreamhead/moco
 
+### 接口测试
+
+1.REST Assured
+
+REST Assured是Java DSL，用于简化对基于HTTP Builder的基于REST的服务的测试。它支持POST，GET，PUT，DELETE，OPTIONS，PATCH和HEAD请求，可用于验证和验证这些请求的响应。
+
+github：https://github.com/rest-assured/rest-assured
+
+### 集成测试
+
+1.Testcontainers
+
+Testcontainers是一个Java库，支持JUnit测试，它提供常见数据库，Selenium Web浏览器或可以在Docker容器中运行的任何其他东西的轻量级一次性实例。可应用于数据访问层集成测试、应用程序集成测试、UI/验收测试等。
+
+官网：https://www.testcontainers.org/
+
 ### 安全框架
 
 1.Apache Shiro
