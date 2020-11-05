@@ -376,6 +376,10 @@ REST Assured是Java DSL，用于简化对基于HTTP Builder的基于REST的服�
 
 github：https://github.com/rest-assured/rest-assured
 
+2.Mock MVC
+
+MockMvc是由spring-test包提供，实现了对http请求的模拟，能够直接使用网络的形式，转换到Controller的调用，使得测试速度快、不依赖网络环境。
+
 ### 集成测试
 
 1.Testcontainers
