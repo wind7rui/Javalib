@@ -368,6 +368,12 @@ PowerMock也是一个Java单元测试模拟框架，它可以模拟静态方法�
 
 github：https://github.com/dreamhead/moco
 
+5.Spock
+
+github：https://github.com/spockframework/spock
+
+官网：http://spockframework.org/
+
 ### 接口测试
 
 1.REST Assured
